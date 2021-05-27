@@ -1,1 +1,1 @@
-This is a drum kit made with html, css, and vanilla javascript.
+This is a browser drum kit made with html, css, and vanilla javascript.
